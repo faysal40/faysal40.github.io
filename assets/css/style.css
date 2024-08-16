@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Poppins, sans-serif;
+}
+
+.home {
+    background-color: #e6e6e6;
+    min-height: 100vh;
+}
+
+.my-info h1 {
+    font-size: 3em;
+    margin-top: 20px;
+}
+
+h1,
+h3 span {
+    color: #ff0000;
+}
+
+.home {
+    padding: 160px;
+    /* display: none; */
+}
+
+.my-img {
+    border-radius: 50%;
+}
+
+#about {
+    min-height: 100vh;
+}
+
+#routine {
+    min-height: 100vh;
+    background-color: #e6e6e6;
+}
+
+footer {
+    background-color: #292929;
+    color: #e6e6e6;
+}
